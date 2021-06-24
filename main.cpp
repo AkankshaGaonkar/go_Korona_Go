@@ -226,7 +226,8 @@ void building3()
  glVertex3f(-14, 8, 0);
  glEnd();
 
- glBegin(GL_POLYGON);
+
+glBegin(GL_POLYGON);
  glColor3f(1.0, 1.0, 1.0);
  glVertex3f(-14, 16, 0);
  glVertex3f(-6, 16, 0);
@@ -673,6 +674,7 @@ void road()
     glVertex2f(150,5);
     glEnd();
 
+
 glBegin(GL_POLYGON);
     glColor3f(1.0,0.9,0.0);
     glVertex2f(20,0);
@@ -889,6 +891,7 @@ glVertex2i (25.5,46);
 glVertex2f (27.5,44);
 glVertex2f (29.5,46);
 glEnd();
+
 
 glBegin (GL_QUADS);
 glColor3f (0.60, 0.0, 0.);
@@ -1122,6 +1125,7 @@ void display() {
   glColor3f(0,0.0,1);
   tablet();
   glPopMatrix();
+
 
 glPushMatrix();
   glScalef(0.07,0.07,0);
