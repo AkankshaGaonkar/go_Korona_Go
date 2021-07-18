@@ -1,0 +1,29 @@
+INTRODUCTION:
+In go_Korona_Go_Game, the aim is to guide the character i.e, man to reach the
+medication objects thus preventing the attack of corona virus.There are corona
+viruses placed at random screen positions and the character must avoid
+collision with these virus particles to avoid termination of the game. Mask acts
+as a second life in the game and hence the game does not terminate if the
+character has collected a mask and then collides with virus. One dose of
+Vaccine might give partial protection but as game continues character has to
+take preventive measures without fail to protect from the virus and continue
+the game to collect the second dose of vaccine and reach the maximum score
+point.As there are two backgrounds the character will be able to move freely in
+both the backgrounds.In the welcome window, we have home page and links
+to instructions page, game window screen. We have provided user interaction
+through the keyboard. On clicking ‘SpaceBar’ in home window screen, the
+player is directed to the Instruction page, which contains the instructions to
+play the game using arrow keys. On the termination of the game, the user will
+be directed to the Game Over page. Here the score will be displayed. The score
+is calculated based on the boosters collected during the game and tackling the
+corona virus. On encountering boosters, character’s overall health will be
+increased, which is indicated with a slight increase in the score. In the Game
+Over page, the user can click the spacebar to start a new game.
+CONCLUSION:
+Playing the game will bring awareness among the people regarding the danger
+caused by COVID-19. It will showcase the safety measures that could be
+adopted to reduce the risk of infection caused by virus. The designing and
+implementation of the project has enabled us to gain a better understanding of
+various computer graphics concepts and the various functions available to
+create animations. It provides a base for developing advanced projects that has
+a core demand in the Graphics and Animation Industry.
