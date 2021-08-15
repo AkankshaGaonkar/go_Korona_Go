@@ -8,3 +8,5 @@ utmost important to protect themselves. The game gets over when the
 character(man) hits the corona virus without any medication treatment.
 # Background1
 <img height=400 width=900 src="https://github.com/AkankshaGaonkar/go_Korona_Go/blob/main/Screenshot%20(269).png" />
+# Background2
+<img height=400 width=900 src=https://github.com/AkankshaGaonkar/go_Korona_Go/blob/main/Screenshot%20(270).png"/>
